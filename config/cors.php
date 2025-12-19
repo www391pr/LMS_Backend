@@ -1,3 +1,4 @@
+<?php
 return [
     'paths' => ['api/*'],   // apply CORS to API routes
     'allowed_methods' => ['*'],  // GET, POST, PUT, DELETE, OPTIONS
